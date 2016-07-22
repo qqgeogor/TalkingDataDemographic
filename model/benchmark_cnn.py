@@ -19,7 +19,7 @@ max_index_label = 1021
 maxlen = 500
 dim = 128
 
-path = "E:\\TalkingData\\"
+path = "../input/"
 
 
 def get_train_valid():
